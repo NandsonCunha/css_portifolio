@@ -1,0 +1,30 @@
+*{
+    background-color: #041B15;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+main{
+    text-align: center;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.butao{
+    background-color: #A2FAA3;
+    padding: 3px;
+    margin: 20px;
+    border: solid 1px black;
+    color: black;
+}
+
+.imagem{
+    padding: 3px;
+    height: 320px;
+    width: 30%;
+    margin-top: 5px;
+    border-radius: 50%;
+
+}
